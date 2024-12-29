@@ -17,7 +17,7 @@ This project is hosted at: [BookLab](http://booklab.free.nf)
 - **EasyConnect**: Provided Integrated ChatApp for the contact, there you can connect with seller or buyer
 
 ## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript,ajax,jquery
 - **Backend**: PHP
 - **Database**: MySQL
 - **Hosting**: Free Hosting at infinityFree
