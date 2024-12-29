@@ -28,7 +28,7 @@ Visit the live version: [BookLab](http://booklab.free.nf)
 ## Future Enhancements
 - Integration with payment gateways for online transactions.
 - Book rating and review system.
-- Mobile-responsive design for enhanced accessibility.
+- Mobile-Application design for enhanced accessibility.
 - Ai book recommendation
 
 
